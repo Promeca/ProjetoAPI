@@ -1,0 +1,18 @@
+Python - Aula 9:
+
+ao escrever um codigo como o print para que uma string apareca em cada linha 
+não precisa escrever a funcao de print varias vzs uma abaixo da outra... existe outra maneira...
+
+para criar novas linhas na mesma funcao é usando a barra invertida (\n), ex:
+                   
+print('Hello world!\nHello world!')
+Hello world!
+Hello world!
+
+Erro de Indentação:
+
+é bom ficar de olho no separador do codigo no começo da linha
+tipo assim:
+    print('Gui')
+isso resultaria no erro de indentação pois tem um espaco antes do code
+
